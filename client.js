@@ -26,7 +26,7 @@ const connect = async () => {
          level: 'silent'
       }),
       printQRInTerminal: true,
-      browser: ['@neoxr / neoxr-bot', 'safari', '1.0.0'],
+      browser: ['@oxxy / noxxy-bot', 'safari', '1.0.0'],
       auth: state,
       // To see the latest version : https://web.whatsapp.com/check-update?version=1&platform=web
       version: [2, 2245, 9]
